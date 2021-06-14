@@ -1,0 +1,6 @@
+github.com/TheTitanrain/w32 v0.0.0-20200114052255-2654d97dbd3d h1:2xp1BQbqcDDaikHnASWpVZRjibOxu7y9LhAv04whugI=
+github.com/TheTitanrain/w32 v0.0.0-20200114052255-2654d97dbd3d/go.mod h1:peYoMncQljjNS6tZwI9WVyQB3qZS6u79/N3mBOcnd3I=
+github.com/kindlyfire/go-keylogger v0.0.0-20180814110756-f2fda1034e3a h1:voOYoZK6Ae5yoUNDQT7KY08khmIpVwcYq7Dy4O8V/9k=
+github.com/kindlyfire/go-keylogger v0.0.0-20180814110756-f2fda1034e3a/go.mod h1:W5lazHtmJQ7GsSZfHeb/CwcYNbY7fFKRcx/kD8jFlzQ=
+golang.org/x/sys v0.0.0-20210611083646-a4fc73990273 h1:faDu4veV+8pcThn4fewv6TVlNCezafGoC1gM/mxQLbQ=
+golang.org/x/sys v0.0.0-20210611083646-a4fc73990273/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
